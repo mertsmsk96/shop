@@ -1,0 +1,8 @@
+.productbox{
+    margin: 15px;
+}
+img{
+    width: 15rem;
+    height: 12rem;
+    object-fit: cover;
+}
